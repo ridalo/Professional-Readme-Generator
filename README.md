@@ -12,14 +12,14 @@ This is a Command Line Interface application that can create an organization tre
 # Installation
 The following necessary dependencies must be installed to run the application properly:
 # Usage
-​This application is used for creating a team profile.
+​​This application is used for creating generated read me file.
 # License
-  This project is license under the  MIT license.
+  This project is license under the MIT license.
 # Test
 To run tests, you need to run the following command: node index.js
 # Contributing
 ​Contributors: Richard Long
 # Questions
-If you have any questions about the repo, open an issue or contact [ridalo](https://github.com/ridalo) 
+If you have any questions about the repo, open an issue or contact [ridalo](https://github.com/ridalo) directly [ridalo1989@gmail.com](mailto:ridalo1989@gmail.com).
 # Walkthrough Demo of App
-View at:  
+View at: 
